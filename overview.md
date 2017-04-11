@@ -8,7 +8,7 @@ Analysis methods for single-cell gene expression data are still evolving, but ge
 2.  Unsupervised clustering
 3.  Classification
 
-For this project, I intend to perform exploratory data analysis on publicly available scRNA-seq data sets from (10X Genomics)[https://www.10xgenomics.com/single-cell/].
+For this project, I intend to perform exploratory data analysis on publicly available scRNA-seq data sets from [10X Genomics](https://www.10xgenomics.com/single-cell/).
 
 In particular, I plan to analyze 2 independent but similar data sets profiling peripheral blood mononuclear cells (PBMCs).  These blood cells with a round nucleus play a key role in the immune system's fight against infection and include various types of immune cells such as T cells, B cells, and Natural Killer cells.  As part of the exercise, I hope to build a model for immune-cell type classification using one data set and evaluate whether it is transferable to another independent data set.
 

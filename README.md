@@ -1,3 +1,3 @@
 # scRNA-seq Data Analysis
 
-The analysis of single-cell RNA-seq data
+Single-cell RNA-seq data analysis

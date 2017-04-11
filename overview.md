@@ -1,4 +1,4 @@
-### Overview
+### Project Overview
 
 Gene expression profiling by RNA-seq of single cells (scRNA-seq) as opposed to bulk populations of cells (traditional RNA-seq) is a relatively new technology that is helping to uncover "new" biology.  For example, it has been shown to improve the resolution of cell fate determination, tissue composition, and linked gene regulatory changes.  Applications in cancer research highlight how tumors consist of mixtures of cells which can be resolved based on their gene expression profiles.
 
